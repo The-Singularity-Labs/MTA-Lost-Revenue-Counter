@@ -1,0 +1,21 @@
+.vertical-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  font-family: 'neue-haas-grotesk-display', 'Helvetica Neue', Arial, sans-serif; /* MTA font */
+  color: #0039A6; /* White text */
+}
+
+.counter {
+  font-size: 8vw; /* Responsive font size */
+  text-align: center;
+  animation: increment 1s ease-in-out infinite;
+}
+
+@keyframes increment {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
