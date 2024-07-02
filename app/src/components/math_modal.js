@@ -23,6 +23,7 @@ export default function (isOpen, toggle) {
         <li><b>Per Minute</b>: $1.7K</li>
         <li><b>Per Second</b>: $28.54</li>
     </ul>
+    <p> accruing since June 30th 2024</p>
     </article>
     </dialog>
   `
