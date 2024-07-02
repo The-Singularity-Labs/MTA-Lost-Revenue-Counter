@@ -20,7 +20,7 @@ const template = html`
 <main id="home" class="container">
 
     <div class="grid-container">
-        <h2>How much has Governor Hochul cost the MTA?</h2>
+        <h2>How much has Kathy Hochul cost the MTA?</h2>
         <br>
         <div class="counter vertical-center" @click="${toggleMathModal}">
          $${() => store.incomeLost.toLocaleString(undefined, { minimumFractionDigits: 2 })}
