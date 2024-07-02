@@ -11,8 +11,8 @@ The project aims to provide a real-time visualization of the financial impact on
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/The-Singularity-Labs/congestionpricing-doomsday-clock
-   cd congestionpricing-doomsday-clock
+   git clone git@github.com:The-Singularity-Labs/MTA-Lost-Revenue-Counter.git
+   cd MTA-Lost-Revenue-Counter
    ```
 
 2. **Install Dependencies:**
