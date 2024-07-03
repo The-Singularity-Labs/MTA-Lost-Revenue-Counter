@@ -11,7 +11,7 @@ export default function (isOpen, toggle) {
         </p>
     </header>
     <p>
-        This counter is based on the $900 billion annual net revenue figure 
+        This counter is based on the $900 million annual net revenue figure 
         reported by the MTA<sup><a target="_blank" href="https://new.mta.info/document/142706">0</a></sup>.
         This amounts to revenue losses of:
         </p>
